@@ -1,2 +1,2 @@
 # UrlyUI
-Urly the best URL shortener, backend services
+Urly the best URL shortener, user interface
